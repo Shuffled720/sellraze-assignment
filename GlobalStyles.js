@@ -1,6 +1,6 @@
 /* fonts */
 export const FontFamily = {
-  sFPro: "SF Pro",
+  // sFPro: "SF Pro",
   inter: "Inter",
   roboto: "Roboto",
 }
